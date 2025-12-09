@@ -67,7 +67,7 @@ webpage/
    ```
 4. Open `index.html` in your browser:
    ```bash
-   # On Mac
+   # On Mac (I googled how to do it)
    open index.html
    
    # On Windows
