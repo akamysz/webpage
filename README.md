@@ -59,7 +59,7 @@ webpage/
 1. Open your terminal/command prompt
 2. Clone the repository:
    ```bash
-   git clone https://github.com/angelkamysz/angelkamysz.github.io.git
+   git clone https://github.com/akamysz/akamysz.github.io.git
    ```
 3. Navigate to the project directory:
    ```bash
@@ -89,7 +89,7 @@ webpage/
 
 ---
 
-### Bootstrap Components (Not Covered in this Class) #even though this was not covered, I have made websites before
+### Bootstrap Components
 - **Accordion Component**: Used in the About section to organize technical skills into collapsible categories
 - **Carousel Component**: Used in the Projects section with custom navigation controls
 
@@ -209,7 +209,7 @@ webpage/
   - Purpose: Placeholder images for project screenshots
   - Used two images
 
-## 🎯 JavaScript Functionality (30+ lines)
+## JavaScript Functionality (30+ lines)
 
 The JavaScript file (`js/main.js`) includes the following functionality:
 
