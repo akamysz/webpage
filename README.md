@@ -7,7 +7,7 @@ Single-page website buitl with HTML, CSS, JAvascript, and bootstrap.
 
 ### Features
 
--** Responsive Design**: FUlly responsive layout that works on desktop
+- **Responsive Design**: FUlly responsive layout that works on desktop
 - **Smooth Animations**: Scroll-triggered animations and hover effects
 - **Interactive Components**: Bootstrap accordion (skills) and carousel (projects)
 - **Form Validation**: Client-side form validation with real-time feedback
