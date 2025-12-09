@@ -207,7 +207,7 @@ webpage/
 - **Unsplash** - Free stock photography
   - Website: https://unsplash.com/
   - Purpose: Placeholder images for project screenshots
-  - Used two images
+  - Used a few images as placeholders at the beginning and then found my own pictures. 
 
 ## JavaScript Functionality (30+ lines)
 
